@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://velosbet77.all-in-one-digital-hotel.com/sitemap.xml
